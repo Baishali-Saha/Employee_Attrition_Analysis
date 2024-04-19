@@ -1,2 +1,2 @@
 # Employee_Attrition_Analysis
-Analyze Employee Attrition data to know the reason of attrition.
+Analyze Employee Attrition data to acquaint the reason of attrition.
